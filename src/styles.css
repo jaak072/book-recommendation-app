@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+#nav {
+  color: wheat;
+  background-color: blue;
+  padding: 1.2rem;
+  margin-top: 0;
+}
+button {
+  background-color: beige;
+  font-weight: bold;
+  padding: 0.4rem 1rem 0.4rem 1rem;
+  margin: 1rem;
+  font-size: 1.2rem;
+  border-radius: 19%;
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  max-width: 40%;
+  border-radius: 5%;
+  margin: 1rem auto;
+}
